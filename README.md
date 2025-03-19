@@ -30,7 +30,7 @@ This is an organic e-commerce web application built with React.js, Express.js, M
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/Jobayer98/OrganicShop.git
+git clone https://github.com/dheeraj1174/Organick.git
 ```
 
 
@@ -44,6 +44,6 @@ npm run dev
 
 ## Author
 
-- Author: Jobayer98
-- GitHub: [Your GitHub Profile](https://github.com/Jobayer98)
+- Author: Dheeraj
+- GitHub: [Your GitHub Profile](https://github.com/dheeraj1174)
 
